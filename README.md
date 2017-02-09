@@ -1,9 +1,5 @@
 #  Getting the statistics of API calls from GitHub repositories
 
-## Project members
-  * Ahmed Metwally (678120810)
-  * Samrudhi Nayak (652550698)
-  * Eric Wolfson (678795352)
 
 ## Overview
 
