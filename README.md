@@ -45,8 +45,7 @@ To delete any of the repositories, click on the "Delete" button at the bottom of
 
 Clone the project to your local repository:
 ```
-git clone 
-https://samrudhinayak@bitbucket.org/samrudhinayak/ahmed_eric_samrudhi_fp.git
+git clone https://github.com/aametwally/GitHub-API-Calls-Stat.git
 ```
  
 
